@@ -1,0 +1,4 @@
+to run ngrok - go to downloads, then use: ./ngrok http 5000
+always remember to update fulfillment page with new ngrok link
+
+remember to close terminal and reset everytime
